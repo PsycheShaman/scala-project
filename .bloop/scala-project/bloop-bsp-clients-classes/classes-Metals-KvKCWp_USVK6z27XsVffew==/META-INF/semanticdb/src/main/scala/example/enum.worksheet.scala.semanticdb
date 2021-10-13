@@ -1,0 +1,60 @@
+
+§+src/main/scala/example/enum.worksheet.scala*.
+_empty_/PrimaryColor# ”€*PrimaryColor€*2
+ _empty_/PrimaryColor#`<init>`(). €@*<init>€*,
+_empty_/PrimaryColor.
+ *PrimaryColor€*)
+_empty_/PrimaryColor.Red. €©*Red€*-
+_empty_/PrimaryColor.Green. €©*Green€*+
+_empty_/PrimaryColor.Blue. €©*Blue€*0
+_empty_/PrimaryColor.$values. €*$values€*-
+_empty_/PrimaryColor.values().*values€*/
+_empty_/PrimaryColor.valueOf().*valueOf€*4
+&_empty_/PrimaryColor.valueOf().($name)*$name€*)
+_empty_/PrimaryColor.$new().*$new€*9
+'_empty_/PrimaryColor.$new().(_$ordinal)*	_$ordinal€*1
+#_empty_/PrimaryColor.$new().($name)*$name€*7
+#_empty_/PrimaryColor.fromOrdinal().*fromOrdinal€*<
+,_empty_/PrimaryColor.fromOrdinal().(ordinal)*ordinal€*.
+_empty_/PrimaryColour# *PrimaryColour€*3
+!_empty_/PrimaryColour#`<init>`(). €@*<init>€*.
+_empty_/PrimaryColour.
+ *PrimaryColour€*)
+_empty_/PrimaryColour.Red.
+ ˆ*Red€*+
+_empty_/PrimaryColour.Blue.
+ ˆ*Blue€*-
+_empty_/PrimaryColour.Green.
+ ˆ*Green€*3
+!_empty_/`enum.worksheet$package`. *_empty_€*O
+5_empty_/`enum.worksheet$package`.colorBlindProblem().*colorBlindProblem€*J
+<_empty_/`enum.worksheet$package`.colorBlindProblem().(color)*color€2
+ _empty_/PrimaryColor#2.
+  _empty_/PrimaryColor#`<init>`().2'
+ 
+_empty_/PrimaryColor.Red.2)
+ _empty_/PrimaryColor.Green.2(
+ _empty_/PrimaryColor.Blue.2$
+		 _empty_/PrimaryColour#2+
+		!_empty_/PrimaryColour#`<init>`().2$
+
+
+ _empty_/PrimaryColour.2(
+ _empty_/PrimaryColour.Red.2$
+ '_empty_/PrimaryColour#2)
+ _empty_/PrimaryColour.Blue.2$
+ (_empty_/PrimaryColour#2*
+ _empty_/PrimaryColour.Green.2$
+ )_empty_/PrimaryColour#2+
+!_empty_/`enum.worksheet$package`.2C
+ 5_empty_/`enum.worksheet$package`.colorBlindProblem().2J
+ <_empty_/`enum.worksheet$package`.colorBlindProblem().(color)2#
+ )_empty_/PrimaryColor#2
+, 3scala/Boolean#2J
+ <_empty_/`enum.worksheet$package`.colorBlindProblem().(color)2'
+ _empty_/PrimaryColor.Red.2#
+	 _empty_/PrimaryColor.2(
+ _empty_/PrimaryColor.Blue.2#
+	 _empty_/PrimaryColor.2)
+ _empty_/PrimaryColor.Green.2#
+	 _empty_/PrimaryColor.PZ 076B6470D27AA2D802CF56DC85512DFD
